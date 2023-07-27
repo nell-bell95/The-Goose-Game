@@ -48,4 +48,4 @@ Catch bonuses as you fly - they have a score!
 
 
 ## Contact
-If you encounter any issues, have suggestions, or want to report a bug, please feel free to open an issue in the repository or contact me at [nellhelens@hmail.com].
+If you encounter any issues, have suggestions, or want to report a bug, please feel free to open an issue in the repository or contact me at [nellhelens@gmail.com].
