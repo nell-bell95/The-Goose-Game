@@ -8,7 +8,6 @@ The objective of the game is simple: help the Goose navigate through a series of
 * [General Info](#general-information)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
